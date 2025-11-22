@@ -60,6 +60,9 @@ Exemplo incorreto:
 
 Python não reconhece vírgula como separador decimal.
 
+![Calculadora](https://github.com/user-attachments/assets/1adc7d87-5d42-4e75-864f-5bf5a0badcb7)
+
+
 ---
 
 ## Estrutura do código

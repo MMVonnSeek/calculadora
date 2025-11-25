@@ -131,4 +131,9 @@ Em caso de dúvidas abra uma *Issue* aqui no repositório.
 
 ---
 
+## Autor
+Professor: Max Müller
+Disciplina: Lógica de Programação 2° DS
+
+
 #### Deixe uma ⭐ e obrigado por utilizar este projeto para aprender Python e GitHub!

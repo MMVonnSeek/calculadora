@@ -131,4 +131,4 @@ Em caso de dúvidas abra uma *Issue* aqui no repositório.
 
 ---
 
-Deixe uma ⭐ e obrigado por utilizar este projeto para aprender Python e GitHub!
+#### Deixe uma ⭐ e obrigado por utilizar este projeto para aprender Python e GitHub!
